@@ -9,7 +9,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Currently learning **React, Flutter, WordPress & modern web technologies**
+- 🌱 Currently learning **React, Flutter, WordPress & etc..**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Java, PHP**
 - 📫 Reach me at **sharuanthonyfrancis@gmail.com**
 - ⚡ Passionate about **Web & App Development**
